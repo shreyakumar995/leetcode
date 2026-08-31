@@ -34,6 +34,5 @@ class Solution {
     boolean isCrit(ListNode a, ListNode b, ListNode c) {
         return (a.val < b.val && b.val > c.val) ||
                (a.val > b.val && b.val < c.val);
-        
     }
 }
