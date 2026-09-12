@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shreyakumar995/leetcode/tree/master/0039-combination-sum) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyakumar995/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shreyakumar995/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/shreyakumar995/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shreyakumar995/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shreyakumar995/leetcode/tree/master/1288-remove-covered-intervals) |
