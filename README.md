@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shreyakumar995/leetcode/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/shreyakumar995/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyakumar995/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyakumar995/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakumar995/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/shreyakumar995/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shreyakumar995/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shreyakumar995/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/shreyakumar995/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shreyakumar995/leetcode/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/shreyakumar995/leetcode/tree/master/1927-sum-game) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakumar995/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/shreyakumar995/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shreyakumar995/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shreyakumar995/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyakumar995/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreyakumar995/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shreyakumar995/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/shreyakumar995/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyakumar995/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shreyakumar995/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
