@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyakumar995/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakumar995/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/shreyakumar995/leetcode/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/shreyakumar995/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shreyakumar995/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyakumar995/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shreyakumar995/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/shreyakumar995/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shreyakumar995/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakumar995/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shreyakumar995/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyakumar995/leetcode/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shreyakumar995/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -294,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shreyakumar995/leetcode/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shreyakumar995/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shreyakumar995/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
