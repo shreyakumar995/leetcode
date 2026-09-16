@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shreyakumar995/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shreyakumar995/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyakumar995/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/shreyakumar995/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shreyakumar995/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyakumar995/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/shreyakumar995/leetcode/tree/master/0169-majority-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shreyakumar995/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shreyakumar995/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shreyakumar995/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shreyakumar995/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyakumar995/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/shreyakumar995/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shreyakumar995/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakumar995/leetcode/tree/master/0560-subarray-sum-equals-k) |
