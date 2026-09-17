@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakumar995/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyakumar995/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/shreyakumar995/leetcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/shreyakumar995/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shreyakumar995/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shreyakumar995/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shreyakumar995/leetcode/tree/master/0075-sort-colors) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shreyakumar995/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shreyakumar995/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/shreyakumar995/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shreyakumar995/leetcode/tree/master/1260-shift-2d-grid) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shreyakumar995/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/shreyakumar995/leetcode/tree/master/0836-rectangle-overlap) |
