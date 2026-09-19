@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shreyakumar995/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shreyakumar995/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyakumar995/leetcode/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyakumar995/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreyakumar995/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyakumar995/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shreyakumar995/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyakumar995/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyakumar995/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyakumar995/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shreyakumar995/leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyakumar995/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyakumar995/leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyakumar995/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
