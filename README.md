@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shreyakumar995/leetcode/tree/master/0039-combination-sum) |
+| [1096-brace-expansion-ii](https://github.com/shreyakumar995/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/shreyakumar995/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shreyakumar995/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shreyakumar995/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreyakumar995/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyakumar995/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/shreyakumar995/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/shreyakumar995/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shreyakumar995/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyakumar995/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shreyakumar995/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/shreyakumar995/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyakumar995/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/shreyakumar995/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shreyakumar995/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreyakumar995/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakumar995/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/shreyakumar995/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shreyakumar995/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shreyakumar995/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyakumar995/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shreyakumar995/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/shreyakumar995/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
