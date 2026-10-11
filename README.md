@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyakumar995/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreyakumar995/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shreyakumar995/leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/shreyakumar995/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyakumar995/leetcode/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreyakumar995/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shreyakumar995/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shreyakumar995/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shreyakumar995/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shreyakumar995/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/shreyakumar995/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shreyakumar995/leetcode/tree/master/0877-stone-game) |
@@ -308,11 +310,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shreyakumar995/leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/shreyakumar995/leetcode/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shreyakumar995/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shreyakumar995/leetcode/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shreyakumar995/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyakumar995/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreyakumar995/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -531,4 +535,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shreyakumar995/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyakumar995/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shreyakumar995/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shreyakumar995/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shreyakumar995/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
