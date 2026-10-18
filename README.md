@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/shreyakumar995/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyakumar995/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/shreyakumar995/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/shreyakumar995/leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/shreyakumar995/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyakumar995/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyakumar995/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -562,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shreyakumar995/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shreyakumar995/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
