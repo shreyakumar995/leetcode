@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shreyakumar995/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shreyakumar995/leetcode/tree/master/1927-sum-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shreyakumar995/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/shreyakumar995/leetcode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyakumar995/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shreyakumar995/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreyakumar995/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shreyakumar995/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shreyakumar995/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shreyakumar995/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/shreyakumar995/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shreyakumar995/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreyakumar995/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyakumar995/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
