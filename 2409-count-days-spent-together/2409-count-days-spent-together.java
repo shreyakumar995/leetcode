@@ -8,5 +8,6 @@ class Solution {
         var q = (s.charAt(3) - '0') * 10 + (s.charAt(4) - '0');
 
         return (275 * m) / 9 - 30 - 2 * ((m + 9) / 12) + q;
+        
     }
 }
