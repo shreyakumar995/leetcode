@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shreyakumar995/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shreyakumar995/leetcode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/shreyakumar995/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyakumar995/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyakumar995/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreyakumar995/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shreyakumar995/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shreyakumar995/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shreyakumar995/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shreyakumar995/leetcode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyakumar995/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shreyakumar995/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shreyakumar995/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shreyakumar995/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shreyakumar995/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shreyakumar995/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shreyakumar995/leetcode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyakumar995/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shreyakumar995/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyakumar995/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shreyakumar995/leetcode/tree/master/1927-sum-game) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreyakumar995/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shreyakumar995/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shreyakumar995/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shreyakumar995/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shreyakumar995/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreyakumar995/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
